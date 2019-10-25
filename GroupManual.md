@@ -108,6 +108,10 @@ when we share data, we want to provide logical organization - have other lab mem
 
 ## Research
 
+We do fundamental science that hopefully will have broader impacts on technology. In general, that means we're trying out new research ideas and things may not always work. This is both the joy of discovery and the grind of understanding why your experiment is half-successful. Research often uncovers more questions than answers.
+
+Each of you will work on your own independent research project. In addition to allowing the group to work on a wider range of topics, it allows you the flexibility to progress at your own pace. Of course there are research overlaps and I expect you to help your fellow group members if they need assistance with something - particularly as they're starting their own projects.
+
 ### Computational Work
 
 ***To be written***
@@ -142,6 +146,16 @@ Pitt provides unlimited storage via Box.com which is useful for storing key data
 
 When you leave the group, it is important that a copy of all your data is preserved for future work - the group has a networked RAID with 10TB storage that is maintained by Geoff - he will be happy to show you how to copy your data or access older group files.
 
+### Open Science
+
+We’re all for open science, so lab members are encouraged (well, required) to share their code and data with others, whether they are in the lab or outside of it. Within lab, you can share your code and data whenever you like. Outside of collaborators, please do not share code or data until you think (and Geoff agrees) that the lab is finished with it and it's ready for outside consumption, whether through publication or other milestone.
+
+This gives us an opportunity to work with the data to meet our needs (including grant needs!) before releasing it for other people to use.
+
+We will also share our work with the world as soon as we ready, which means preprints! The lab policy is to upload a preprint of a manuscript simultaneously with initial submission to a journal. The preferred preprint servers are ChemRxiv and arXiv. We will also put PDFs of all our papers on the lab website, and you should share PDFs of your paper with whoever asks.
+
+As much as possible, we want to expose the raw data and any analysis scripts with publications. We do good science and have nothing to hide, so let's show that.
+
 ### Hours and Time Management
 
 Hours in academia are more flexible than other jobs -- but you should still treat it as a real job (~40 hours/week) and show up on a regular basis. Some times will be busier than others and some times you may need to take work off (e.g., parents visiting, car repairs, doctors appointments, etc.). My main concern is that you're getting work done and that I see everyone on a regular basis.
@@ -173,7 +187,7 @@ At some point, you will probably be asked to provide a figure or three for a gra
 
 ## Citations and License
 
-Parts of this lab manual were inspired and adapted from [Prof. Mariam Aly at Columbia University](http://www.alylab.org). It is provided under the [Creative Commons Attribution License 4.0](https://creativecommons.org/licenses/by/4.0/).
+Much of this lab manual was inspired and adapted from [Prof. Mariam Aly at Columbia University](http://www.alylab.org). It is provided under the [Creative Commons Attribution License 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Like all science this lab manual is a work in progress. Please feel free to make suggestions or pull requests via [GitHub](https://github.com/ghutchis/labmanual)
 
