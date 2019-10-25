@@ -9,6 +9,8 @@ Science can be hard, but it should also be fun.
 
 Much of this lab manual was inspired and adapted from [Prof. Mariam Aly at Columbia University](http://www.alylab.org). It is provided under the [Creative Commons Attribution License 4.0](https://creativecommons.org/licenses/by/4.0/).
 
+It should represent a vision of how the group should operate and is intended as a supplement to departmental and [Pitt university policies](https://www.policy.pitt.edu/policy-listing-category), which take precedence.
+
 Like all science this lab manual is a work in progress. Please feel free to make suggestions or pull requests via [GitHub](https://github.com/ghutchis/labmanual)
 
 - ['The key to a happy lab life is in the manual'](https://www.nature.com/articles/d41586-018-06167-w) *Nature* (2018) **561,** 7.
